@@ -1,0 +1,26 @@
+{
+  "name": "NullSuck",
+  "version": "1.0.0",
+  "description": "My groundbreaking Nuxt.js project",
+  "author": "yuya",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "nuxt-property-decorator": "^2.5.1",
+    "ts-node": "^8.6.2",
+    "vuex-module-decorators": "^0.16.1"
+  },
+  "devDependencies": {
+    "@nuxt/typescript": "^2.8.1",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@types/node": "^13.7.7",
+    "@typescript-eslint/eslint-plugin": "^2.21.0",
+    "@typescript-eslint/parser": "^2.21.0"
+  }
+}
